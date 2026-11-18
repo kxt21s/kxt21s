@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Kunal Gaikwad
 
-<!--
-**kxt21s/kxt21s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspiring Cybersecurity Professional | Red Team & Blue Team | B.Sc. Computer Science Student
 
-Here are some ideas to get you started:
+I'm passionate about cybersecurity, ethical hacking, and protecting digital environments. I’m exploring both offensive and defensive security to understand how cyberattacks work and how to defend against them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+- 🎓 Currently pursuing B.Sc. Computer Science.
+- 🔐 Interested in Offensive Security (Red Team).
+- 🛡️ Interested in Defensive Security (Blue Team).
+- 🌐 Learning Network Security and Ethical Hacking.
+- 🔍 Exploring Vulnerability Assessment and Threat Detection.
+- 🚀 Focused on building practical cybersecurity skills.
+
+---
+
+## ⚔️ Cybersecurity Interests
+
+| Offensive Security 🔴 | Defensive Security 🔵 |
+|---|---|
+| Ethical Hacking | Threat Detection |
+| Penetration Testing | Security Monitoring |
+| Vulnerability Assessment | Incident Response |
+| Red Team Operations | Blue Team Operations |
+| Web Application Security | Network Defense |
+
+---
+
+## 🧰 Technologies & Tools I'm Exploring
+
+**Programming & Scripting**
+- Python
+- HTML & CSS
+- JavaScript
+
+**Cybersecurity & Networking**
+- Kali Linux
+- Linux
+- Wireshark
+- Nmap
+- Cisco Packet Tracer
+
+---
+
+## 📚 Currently Learning
+
+- Cybersecurity Fundamentals
+- Computer Networking
+- Linux Fundamentals
+- Ethical Hacking
+- Security Operations (SOC)
+- Vulnerability Management
+
+---
+---
+
+### 💡 My Goal
+
+To become a skilled cybersecurity professional with knowledge of both Red Team and Blue Team operations and contribute to building a safer digital world.
+
+**"Think Like an Attacker. Defend Like a Guardian."**
+
+---
+
+⭐ Thanks for visiting my profile!
